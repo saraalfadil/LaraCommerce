@@ -7,6 +7,3 @@ A simple e-commerce manager built using Laravel PHP framework. The application c
 4. Run `gulp` to compile SCSS files & autoprefix CSS3 properties.
 5. Create a database called `laracommerce`.
 6. Run `php artisan migrate` & `php artisan db:seed` to add seed data.
-
-## Screenshot
-![Dashboard screenshot](https://raw.githubusercontent.com/saraalfadil/LaraCommerce/master/app/assets/img/laravel-ecommerce.jpg)
